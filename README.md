@@ -1,8 +1,11 @@
-# Projeto-911-Calls
-Um projeto do curso Python para Data Science e Machine Learning
+# Projeto 911 calls
 
-#Ferramentas utilizadas
+## Projeto
+Este projeto é o 1º projeto do curso de Python para Data Science e Machine Learning.
+O projeto 911 calls é um projeto para aprender a manipular e visualizar os dados e consequentemente aprender melhores tecnicas de Data Science.
 
-Foi utilizado a plataforma jupyter notebook.
+## Tecnologias usadas
+- Python3 juntamente com jupyter notebook
 
+## Por: [Bruno Ducati Vazquez]
 
